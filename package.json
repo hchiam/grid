@@ -1,6 +1,6 @@
 {
-  "name": "vite-project-example-minimal",
-  "version": "0.0.0",
+  "name": "@hchiam/grid",
+  "version": "1.0.0",
   "scripts": {
     "start": "python3 -m http.server 8000 # serve index.html",
     "dev": "vite",
